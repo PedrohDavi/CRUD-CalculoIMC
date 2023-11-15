@@ -9,7 +9,11 @@
 
 1 - Clone o repositório
 
-2 - Execute o projeto (de preferência pela IDE Netbeans)
+2 - Altere JDK para a versão 17 (Certifique-se que tenha instalado localmente)
+
+3 - Execute o projeto (de preferência pela IDE Netbeans)
+
+
 
 #### Desafios
 --> Implementar um CRUD básico para que o usuário entre com os dados solicitados e seja capaz de:
@@ -20,4 +24,4 @@
 
 --> Implementar o método que calcula IMC (Índice de massa corpórea)
 
---> Salvar dados inserido em um arquivo de texto (.txt)
+--> Salvar dados inseridos em um arquivo de texto (.txt)
